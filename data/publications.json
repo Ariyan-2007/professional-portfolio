@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Blockchain based Agriculture Using the Application of UAV and Deep Learning Technique: AlexNet CNN",
+    "venue": "Malaysian Journal of Science and Advanced Technology",
+    "date": "2023-05-27",
+    "description": "Smart-agriculture research using UAVs and an AlexNet CNN to detect crop diseases in Bangladesh, with blockchain integrated to improve supply-chain management and crop-protection data.",
+    "url": "https://www.researchgate.net/publication/372053801_Blockchain_based_Agriculture_Using_the_Application_of_UAV_and_Deep_Learning_Technique_Alexnet_CNN"
+  },
+  {
+    "title": "Intelligent Software Bug Prediction: An Empirical Approach",
+    "venue": "IEEE Xplore",
+    "date": "2023-03-21",
+    "description": "Compared six ML algorithms and a deep-learning sequential neural network on NASA's PROMISE dataset for software bug prediction. SVM outperformed other models, and feature selection meaningfully improved accuracy.",
+    "url": "https://ieeexplore.ieee.org/document/10070026"
+  }
+]

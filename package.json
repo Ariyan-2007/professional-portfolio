@@ -1,0 +1,19 @@
+{
+  "name": "ariyan-jahangir-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/ibm-plex-mono": "^5.2.7",
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/space-grotesk": "^5.2.10",
+    "next": "16.2.9",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  }
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "category": "Programming Languages",
+    "items": ["C#", "C++", "JavaScript", "TypeScript", "Python"]
+  },
+  {
+    "category": "Web Technologies",
+    "items": ["HTML5", "CSS3"]
+  },
+  {
+    "category": "Scripting & Automation",
+    "items": ["Bash", "Shell Scripting"]
+  },
+  {
+    "category": "Frameworks & Platforms",
+    "items": [".NET", "Node.js", "NestJS", "Next.js"]
+  },
+  {
+    "category": "Databases",
+    "items": ["MongoDB", "SQL"]
+  },
+  {
+    "category": "Development Tools",
+    "items": ["Git", "Docker", "Postman"]
+  },
+  {
+    "category": "Productivity & Office",
+    "items": ["Excel", "Word", "PowerPoint", "Access"]
+  },
+  {
+    "category": "Engineering Practices",
+    "items": [
+      "SDLC",
+      "Requirements Analysis",
+      "System Design",
+      "API Architecture & Integration",
+      "Testing & QA",
+      "Agile/Scrum",
+      "Sprint Planning",
+      "Issue Tracking",
+      "Code Reviews",
+      "Deployment & Maintenance"
+    ]
+  }
+]

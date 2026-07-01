@@ -1,0 +1,15 @@
+{
+  "name": "Ariyan Jahangir",
+  "title": "Software Engineer",
+  "roleLine": ".NET (C#) Software Engineer — Travel Technology",
+  "summary": "I build travel-technology platforms in C# / .NET, with deep work across GDS and NDC airline APIs. I have contributed to multiple research papers in machine learning during university and my professional career, and I reach for AI when it genuinely adds to performance or productivity.",
+  "location": "Dhaka, Bangladesh",
+  "email": "ariyanjahangireng@gmail.com",
+  "phone": "+8801817274124",
+  "pnrCode": "AJR-7E",
+  "resumeFile": "/Ariyan_Jahangir_Resume.pdf",
+  "links": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/ariyan-jahangir-884550198", "note": "verify-slug" },
+    { "label": "GitHub", "url": "https://github.com/Ariyan-2007", "note": "verify-slug" }
+  ]
+}
