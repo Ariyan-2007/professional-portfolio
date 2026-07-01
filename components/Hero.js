@@ -41,10 +41,10 @@ export default function Hero() {
 
             <div className="pass__actions">
               <a className="btn btn--primary" href={`mailto:${profile.email}`}>
-                Email me
+                Email Me
               </a>
               <a className="btn btn--ghost" href={profile.resumeFile} download>
-                Download resume
+                Download Resume
               </a>
             </div>
           </div>

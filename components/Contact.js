@@ -44,7 +44,7 @@ export default function Contact() {
 
         <div className="contact__bottom">
           <span>© {year} {profile.name}</span>
-          <span>Built with Next.js</span>
+          {/* <span>Built with Next.js</span> */}
         </div>
       </div>
     </section>
