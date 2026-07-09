@@ -44,20 +44,44 @@ export const metadata = {
     googleBot: { index: true, follow: true },
   },
   openGraph: {
-    type: "profile",
+    type: "website",
+
     url: siteUrl,
-    title: "Ariyan Jahangir — Software Engineer",
-    description,
+
     siteName: "Ariyan Jahangir",
+
+    title: "Ariyan Jahangir | Software Engineer",
+
+    description,
+
     locale: "en_US",
+
+    images: [
+      {
+        url: ogImage,
+        width: 1200,
+        height: 630,
+        alt: "Ariyan Jahangir",
+      },
+    ],
   },
+
   twitter: {
     card: "summary_large_image",
-    title: "Ariyan Jahangir — Software Engineer",
+
+    creator: "@YOUR_TWITTER",
+
+    title: "Ariyan Jahangir | Software Engineer",
+
     description,
+
+    images: [ogImage],
   },
+
   icons: {
     icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+    apple: "/apple-touch-icon.png",
   },
 };
 
