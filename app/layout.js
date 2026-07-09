@@ -1,6 +1,6 @@
 import profile from "../data/profile.json";
 import "./globals.css";
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 // Self-hosted font files (via @fontsource): bundled at build time, zero
 // runtime requests to Google's font CDN, zero layout shift.
 import "@fontsource/space-grotesk/latin-500.css";
