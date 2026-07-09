@@ -65,6 +65,7 @@ export default function Hero() {
                 width={300}
                 height={400}
                 className="pass__photo-image"
+                loading="eager"
               />
             </div>
 
