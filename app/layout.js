@@ -102,6 +102,7 @@ export default function RootLayout({ children }) {
       addressCountry: "BD",
     },
     url: siteUrl,
+    image: `${siteUrl}/images/profile.jpg`,
     sameAs: profile.links.map((l) => l.url),
   };
 
@@ -109,9 +110,19 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <script
+          // type="application/ld+json"
+          // // eslint-disable-next-line react/no-danger
+          // dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
           type="application/ld+json"
-          // eslint-disable-next-line react/no-danger
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              url: siteUrl,
+              name: "Ariyan Jahangir",
+              description,
+            }),
+          }}
         />
         {children}
       </body>
