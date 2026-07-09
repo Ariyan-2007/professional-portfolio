@@ -12,6 +12,8 @@ import "@fontsource/ibm-plex-mono/latin-400.css";
 import "@fontsource/ibm-plex-mono/latin-500.css";
 import "@fontsource/ibm-plex-mono/latin-600.css";
 
+const ogImage = "/images/profile.jpg";
+
 const siteUrl = "https://ariyanjahangir.dev";
 const description =
   "Ariyan Jahangir is a .NET (C#) software engineer building travel-technology platforms — GDS and NDC airline API integrations (Amadeus, Sabre), scalable backend systems, and applied machine-learning research.";
